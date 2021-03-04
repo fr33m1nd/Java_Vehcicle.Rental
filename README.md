@@ -14,7 +14,7 @@ All processing will take place in the Java program itself.
 ## How To Use the Application
 __Step 1:__ Run the program from class CVehicleFinal (this contains the main method).  
 
-Screenshot:  
+__Screenshot:__  
 <img src="Images/V.R.Pic1.png" width="550" >  
 
 __Details of Step 1 screenshot:__  
@@ -26,7 +26,7 @@ Then it displays system instructions to give the user an overview of how to use 
 
 __Step 2:__ Fill out required input for customer application.  
 
-Screenshot:  
+__Screenshot:__  
 <img src="Images/V.R.Pic3.png" width="650" >
 <br>  
 
