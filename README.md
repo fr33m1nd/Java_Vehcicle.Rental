@@ -43,5 +43,6 @@ Click [here](https://www.youtube.com/embed/SwcHG7z2zgY) for a live demonstration
 This application was created as a final project for my Java 1 Programming course in college.  
 It is designed as an object-oriented program that uses different classes to run the program in the main method.    
 On top of what can be seen in the screenshots, each piece of required input for the customer is validated.   
-I enjoyed getting more familiar with Java while completing this project, and I look forward to adding  
-to my skills.  
+I hope you got a chance to check out the live video demonstration in the links provided.  
+All the source code for the project is included in this repository.  
+Thank you for your time!
