@@ -4,7 +4,7 @@
 ---
 
 ## Description
-This program is designed to be used as a customer application for renting vehicles.  
+This program is designed to be used as an application to help customers rent vehicles.  
 It is a console based program, coded using Java programming language, and created in Eclipse IDE.  
 It also uses Microsoft SQL Server to script a corresponding database.  
 The database, dbVehicleRental has a  table, TLocations to store the car rental pickup locations.  
